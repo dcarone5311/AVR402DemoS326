@@ -7,15 +7,23 @@
       "RelativeMoniker": "D:0:0:{D64C031C-A2BA-A4CA-2B89-6FE88381287B}|Assembly-CSharp.csproj|solutionrelative:assets\\week 3\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64C031C-A2BA-A4CA-2B89-6FE88381287B}|Assembly-CSharp.csproj|c:\\users\\dominic\\avr402 demo\\avr402demos326\\assets\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D64C031C-A2BA-A4CA-2B89-6FE88381287B}|Assembly-CSharp.csproj|solutionrelative:assets\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D64C031C-A2BA-A4CA-2B89-6FE88381287B}|Assembly-CSharp.csproj|c:\\users\\dominic\\avr402 demo\\avr402demos326\\assets\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64C031C-A2BA-A4CA-2B89-6FE88381287B}|Assembly-CSharp.csproj|solutionrelative:assets\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64C031C-A2BA-A4CA-2B89-6FE88381287B}|Assembly-CSharp.csproj|C:\\Users\\Dominic\\AVR402 Demo\\AVR402DemoS326\\assets\\week 6\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64C031C-A2BA-A4CA-2B89-6FE88381287B}|Assembly-CSharp.csproj|solutionrelative:assets\\week 6\\target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D64C031C-A2BA-A4CA-2B89-6FE88381287B}|Assembly-CSharp.csproj|C:\\Users\\Dominic\\AVR402 Demo\\AVR402DemoS326\\assets\\week 3\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D64C031C-A2BA-A4CA-2B89-6FE88381287B}|Assembly-CSharp.csproj|solutionrelative:assets\\week 3\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D64C031C-A2BA-A4CA-2B89-6FE88381287B}|Assembly-CSharp.csproj|c:\\users\\dominic\\avr402 demo\\avr402demos326\\assets\\week 5\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D64C031C-A2BA-A4CA-2B89-6FE88381287B}|Assembly-CSharp.csproj|C:\\Users\\Dominic\\AVR402 Demo\\AVR402DemoS326\\assets\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64C031C-A2BA-A4CA-2B89-6FE88381287B}|Assembly-CSharp.csproj|solutionrelative:assets\\interactable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64C031C-A2BA-A4CA-2B89-6FE88381287B}|Assembly-CSharp.csproj|C:\\Users\\Dominic\\AVR402 Demo\\AVR402DemoS326\\assets\\week 5\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D64C031C-A2BA-A4CA-2B89-6FE88381287B}|Assembly-CSharp.csproj|solutionrelative:assets\\week 5\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,8 +42,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckPoint.cs",
+              "DocumentMoniker": "C:\\Users\\Dominic\\AVR402 Demo\\AVR402DemoS326\\Assets\\CheckPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\CheckPoint.cs",
+              "ToolTip": "C:\\Users\\Dominic\\AVR402 Demo\\AVR402DemoS326\\Assets\\CheckPoint.cs",
+              "RelativeToolTip": "Assets\\CheckPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T00:07:51.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Target.cs",
+              "DocumentMoniker": "C:\\Users\\Dominic\\AVR402 Demo\\AVR402DemoS326\\Assets\\Week 6\\Target.cs",
+              "RelativeDocumentMoniker": "Assets\\Week 6\\Target.cs",
+              "ToolTip": "C:\\Users\\Dominic\\AVR402 Demo\\AVR402DemoS326\\Assets\\Week 6\\Target.cs",
+              "RelativeToolTip": "Assets\\Week 6\\Target.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T23:10:21.433Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -44,14 +78,14 @@
               "RelativeDocumentMoniker": "Assets\\Week 3\\PlayerController.cs",
               "ToolTip": "C:\\Users\\Dominic\\AVR402 Demo\\AVR402DemoS326\\Assets\\Week 3\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Week 3\\PlayerController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-06T00:12:11.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Interactable.cs",
               "DocumentMoniker": "C:\\Users\\Dominic\\AVR402 Demo\\AVR402DemoS326\\Assets\\Interactable.cs",
               "RelativeDocumentMoniker": "Assets\\Interactable.cs",
@@ -59,12 +93,11 @@
               "RelativeToolTip": "Assets\\Interactable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T23:09:42.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T23:09:42.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\Dominic\\AVR402 Demo\\AVR402DemoS326\\Assets\\Week 5\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Week 5\\GameManager.cs",
@@ -72,25 +105,23 @@
               "RelativeToolTip": "Assets\\Week 5\\GameManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T23:00:25.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T23:00:25.033Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CameraController.cs",
               "DocumentMoniker": "C:\\Users\\Dominic\\AVR402 Demo\\AVR402DemoS326\\Assets\\Week 3\\CameraController.cs",
               "RelativeDocumentMoniker": "Assets\\Week 3\\CameraController.cs",
               "ToolTip": "C:\\Users\\Dominic\\AVR402 Demo\\AVR402DemoS326\\Assets\\Week 3\\CameraController.cs",
               "RelativeToolTip": "Assets\\Week 3\\CameraController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T22:53:46.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-05T22:53:46.438Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AI.cs",
               "DocumentMoniker": "C:\\Users\\Dominic\\AVR402 Demo\\AVR402DemoS326\\Assets\\Week 5\\AI.cs",
               "RelativeDocumentMoniker": "Assets\\Week 5\\AI.cs",
@@ -102,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Launch.cs",
               "DocumentMoniker": "C:\\Users\\Dominic\\AVR402 Demo\\AVR402DemoS326\\Assets\\Launch.cs",
               "RelativeDocumentMoniker": "Assets\\Launch.cs",
