@@ -1,0 +1,395 @@
+Using pre-set license
+Built from '2022.3/release' branch; Version is '2022.3.61f1 (6c53ebaf375d) revision 7099371'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Professional' Language: 'en' Physical Memory: 30459 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.61f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/Dominic/AVR402 Demo/AVR402DemoS326
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+64301
+Successfully changed project path to: C:/Users/Dominic/AVR402 Demo/AVR402DemoS326
+C:/Users/Dominic/AVR402 Demo/AVR402DemoS326
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [22532]  Target information:
+
+Player connection [22532]  * "[IP] 192.168.9.52 [Port] 0 [Flags] 2 [Guid] 832982566 [EditorId] 832982566 [Version] 1048832 [Id] WindowsEditor(7,WIN-ARTPUPCS4R5) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [22532] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [22532] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+Refreshing native plugins compatible for Editor in 6.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.61f1 (6c53ebaf375d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.61f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Dominic/AVR402 Demo/AVR402DemoS326/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) 680M (ID=0x1681)
+    Vendor:   ATI
+    VRAM:     15229 MB
+    Driver:   31.0.14077.1002
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.61f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.61f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.61f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56076
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.61f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006916 seconds.
+- Loaded All Assemblies, in  0.293 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.247 seconds
+Domain Reload Profiling: 539ms
+	BeginReloadAssembly (90ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (50ms)
+	LoadAllAssembliesAndSetupDomain (117ms)
+		LoadAssemblies (88ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (115ms)
+			TypeCache.Refresh (113ms)
+				TypeCache.ScanAssembly (100ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (248ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (204ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (144ms)
+			ProcessInitializeOnLoadMethodAttributes (43ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.530 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.469 seconds
+Domain Reload Profiling: 998ms
+	BeginReloadAssembly (132ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (23ms)
+	RebuildCommonClasses (28ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (39ms)
+	LoadAllAssembliesAndSetupDomain (322ms)
+		LoadAssemblies (256ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (142ms)
+			TypeCache.Refresh (125ms)
+				TypeCache.ScanAssembly (114ms)
+			ScanForSourceGeneratedMonoScriptInfo (12ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (470ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (355ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (53ms)
+			ProcessInitializeOnLoadAttributes (273ms)
+			ProcessInitializeOnLoadMethodAttributes (16ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 3.17 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3350 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 19 unused Assets / (54.9 KB). Loaded Objects now: 3838.
+Memory consumption went from 134.1 MB to 134.0 MB.
+Total: 3.420900 ms (FindLiveObjects: 0.312700 ms CreateObjectMapping: 0.094000 ms MarkObjects: 2.906600 ms  DeleteObjects: 0.106500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/SimpleCharacterMotor.cs: 73308a42105915844b02545afaeed931 -> 514f472b55934d7c0c16364cba2bfeec
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/AdjustTimeScale.cs: 327a0b5533e8ab4f0f2020c74f1982d5 -> 971e5da4fb9cdb787679da2cfc0c80de
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/SpawnEffect.cs: cb2a9cfdca5ae53a81cdf9498a0ceac0 -> 0e822330997e7abc04ce8b8a88e6ec31
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/RampAsset.cs: 71b119705d7f57ed6fe14ccb53b58180 -> d227c3205eb189589865f5198ddf7d73
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/RampAssetEditor.cs: 6ef29bf76616753788d0c7e57349af49 -> 6c98fd78aa2d9c75ceb103bf4d7e19b2
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/SimpleCameraController.cs: 9d5e45e836538af465ffb763b138c221 -> 639b45e76fa5fda920a92b90c69d9e74
+  custom:scripting/monoscript/fileName/ProximityActivate.cs: d1b8bcfe4622d47766b5b9525cbb9f85 -> c1cadad611425c640b0cbb6805a47665
+========================================================================
+Received Import Request.
+  Time since last request: 607697.748351 seconds.
+  path: Assets/Week 8/Collectables Sound Pack/Collectables Sound Effects Pack/Samples/Sound_3/Intervals
+  artifactKey: Guid(4f491b561a1824e009929e4cde0d140a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Week 8/Collectables Sound Pack/Collectables Sound Effects Pack/Samples/Sound_3/Intervals using Guid(4f491b561a1824e009929e4cde0d140a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'bc7dc7d3e449c28b9f856d141ee575e5') in 0.003598 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 5.234361 seconds.
+  path: Assets/Week 8/Collectables Sound Pack/Collectables Sound Effects Pack/Samples/Sound_3/Runs
+  artifactKey: Guid(05d0995395eca4742aae6fe042a78461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Week 8/Collectables Sound Pack/Collectables Sound Effects Pack/Samples/Sound_3/Runs using Guid(05d0995395eca4742aae6fe042a78461) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'a38c7aa4830767eb787008513fff5af2') in 0.000818 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.758350 seconds.
+  path: Assets/Week 8/Collectables Sound Pack/Collectables Sound Effects Pack/Samples/Sound_3/Runs/Low
+  artifactKey: Guid(e4c37831a1e6d4582b76fac4a58fe267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Week 8/Collectables Sound Pack/Collectables Sound Effects Pack/Samples/Sound_3/Runs/Low using Guid(e4c37831a1e6d4582b76fac4a58fe267) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'cacaf9b5d8d4549591f14c6fbe6a6717') in 0.000573 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.075169 seconds.
+  path: Assets/Week 8/Collectables Sound Pack/Collectables Sound Effects Pack/Samples/Sound_3/Runs/Low/FifthArp.wav
+  artifactKey: Guid(d1bb89f105bb341f99afb707c5080b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Week 8/Collectables Sound Pack/Collectables Sound Effects Pack/Samples/Sound_3/Runs/Low/FifthArp.wav using Guid(d1bb89f105bb341f99afb707c5080b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '5ea9e92e930cc16f50ca9f9a9654be1a') in 0.105358 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 4.736054 seconds.
+  path: Assets/Week 8/Collectables Sound Pack/Collectables Sound Effects Pack/Samples/Sound_3/Runs/High
+  artifactKey: Guid(14808bcea6283407f98ad8124a717f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Week 8/Collectables Sound Pack/Collectables Sound Effects Pack/Samples/Sound_3/Runs/High using Guid(14808bcea6283407f98ad8124a717f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'cf9d46ee392ce6abebd7cb1c41b59a8c') in 0.000436 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.070804 seconds.
+  path: Assets/Week 8/Collectables Sound Pack/Collectables Sound Effects Pack/Samples/Sound_3/Runs/High/FifthArpH.wav
+  artifactKey: Guid(4186b8c528d78423eafd7024c1fdd97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Week 8/Collectables Sound Pack/Collectables Sound Effects Pack/Samples/Sound_3/Runs/High/FifthArpH.wav using Guid(4186b8c528d78423eafd7024c1fdd97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '5b1eb832699d763268ece9668006ef37') in 0.022329 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Week 8/Collectables Sound Pack/Collectables Sound Effects Pack/Samples/Sound_3/Runs/High/OctAltH.wav
+  artifactKey: Guid(8a85c98caedc54132b821b0c163b6335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Week 8/Collectables Sound Pack/Collectables Sound Effects Pack/Samples/Sound_3/Runs/High/OctAltH.wav using Guid(8a85c98caedc54132b821b0c163b6335) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '66dcd2698000b940a36e1701d180c59a') in 0.018603 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 5.870515 seconds.
+  path: Assets/Week 8/Collectables Sound Pack/Collectables Sound Effects Pack/Samples/Sound_3/Notes/High
+  artifactKey: Guid(846ff1608b01b4e6dbca52386bfdbf9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Week 8/Collectables Sound Pack/Collectables Sound Effects Pack/Samples/Sound_3/Notes/High using Guid(846ff1608b01b4e6dbca52386bfdbf9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '576584aef0cbb52e8dd61ad02dc35456') in 0.000641 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 9.085954 seconds.
+  path: Assets/Week 8/PolyKebap/Stylized Coin Pack
+  artifactKey: Guid(4787968924182d2468e04ab7c29056e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Week 8/PolyKebap/Stylized Coin Pack using Guid(4787968924182d2468e04ab7c29056e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '74dbc1b9c4ea204a567eecbc7dd579ae') in 0.000549 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 7.086649 seconds.
+  path: Assets/Week 8/PolyKebap/Stylized Coin Pack/DemoScene.unity
+  artifactKey: Guid(d10f3b595408f2b499dd08f96c0db658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Week 8/PolyKebap/Stylized Coin Pack/DemoScene.unity using Guid(d10f3b595408f2b499dd08f96c0db658) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'a7e39caee37e256c9fa8d21203a0db48') in 0.000929 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 10.373827 seconds.
+  path: Assets/Week 8/PolyKebap/Stylized Coin Pack/Materials/M_Coin_Bronze_Edges.mat
+  artifactKey: Guid(63bd91eca9b3a024d856ae89b202e338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Week 8/PolyKebap/Stylized Coin Pack/Materials/M_Coin_Bronze_Edges.mat using Guid(63bd91eca9b3a024d856ae89b202e338) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'ea17389aa5444672f863460d00f434a0') in 0.046809 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Week 8/PolyKebap/Stylized Coin Pack/Materials/M_Coin_Wood_Edges.mat
+  artifactKey: Guid(91077f671865e03458faa96088d4a005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Week 8/PolyKebap/Stylized Coin Pack/Materials/M_Coin_Wood_Edges.mat using Guid(91077f671865e03458faa96088d4a005) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '2c4e032ef33158f316021d46549f70cb') in 0.006227 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 97.981623 seconds.
+  path: Assets/Week 8/PolyKebap/Stylized Coin Pack/Materials/M_Coin_Bronze_Edges.mat
+  artifactKey: Guid(63bd91eca9b3a024d856ae89b202e338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Week 8/PolyKebap/Stylized Coin Pack/Materials/M_Coin_Bronze_Edges.mat using Guid(63bd91eca9b3a024d856ae89b202e338) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '7d0fed810e342de4ea4416e237e7f500') in 0.099505 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Week 8/PolyKebap/Stylized Coin Pack/Materials/M_Coin_Gold_Edges.mat
+  artifactKey: Guid(0b6966040eab23b44a002201da248c0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Week 8/PolyKebap/Stylized Coin Pack/Materials/M_Coin_Gold_Edges.mat using Guid(0b6966040eab23b44a002201da248c0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'e8755a3f6aff577e07caece3abc9da06') in 0.020820 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Week 8/PolyKebap/Stylized Coin Pack/Materials/M_Coin_Silver_Inner.mat
+  artifactKey: Guid(0a128d563c322fa4fbe65e1d022da959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Week 8/PolyKebap/Stylized Coin Pack/Materials/M_Coin_Silver_Inner.mat using Guid(0a128d563c322fa4fbe65e1d022da959) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'bcf74c61061af29e6860d1de5658ec65') in 0.016538 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Week 8/PolyKebap/Stylized Coin Pack/Materials/M_Coin_Gold_Inner.mat
+  artifactKey: Guid(fed97c52d9f00fb47a39b9a96ffe482b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Week 8/PolyKebap/Stylized Coin Pack/Materials/M_Coin_Gold_Inner.mat using Guid(fed97c52d9f00fb47a39b9a96ffe482b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'e40c38c8cb0f77486fea582a20c5cc66') in 0.021435 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 25.509169 seconds.
+  path: Assets/Week 8/PolyKebap/Stylized Coin Pack/Prefabs/Gold Coins/Coin_Gold_Base.prefab
+  artifactKey: Guid(e4cdce44441da25449e495cdbc2632ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Week 8/PolyKebap/Stylized Coin Pack/Prefabs/Gold Coins/Coin_Gold_Base.prefab using Guid(e4cdce44441da25449e495cdbc2632ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '658cc948442091540af8fdde0091ee22') in 0.042084 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Week 8/PolyKebap/Stylized Coin Pack/Prefabs/Gold Coins/Coin_Gold_Square_Hollow.prefab
+  artifactKey: Guid(d70a60219da9b504c9283ea4b6ba4132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Week 8/PolyKebap/Stylized Coin Pack/Prefabs/Gold Coins/Coin_Gold_Square_Hollow.prefab using Guid(d70a60219da9b504c9283ea4b6ba4132) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '1ead29409cab5b9918d19f137b987cc0') in 0.028193 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Week 8/PolyKebap/Stylized Coin Pack/Prefabs/Gold Coins/Coin_Gold_Heart.prefab
+  artifactKey: Guid(0457017d0b4b72244858674fee7d3b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Week 8/PolyKebap/Stylized Coin Pack/Prefabs/Gold Coins/Coin_Gold_Heart.prefab using Guid(0457017d0b4b72244858674fee7d3b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '3903cf31d571267ee1c9525470f0bdea') in 0.034543 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Week 8/PolyKebap/Stylized Coin Pack/Prefabs/Gold Coins/Coin_Gold_Star.prefab
+  artifactKey: Guid(d8e7d682c212c1741adfb76957f48a72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Week 8/PolyKebap/Stylized Coin Pack/Prefabs/Gold Coins/Coin_Gold_Star.prefab using Guid(d8e7d682c212c1741adfb76957f48a72) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'cadcce1a319a01aaf60b3ba36521e420') in 0.021716 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Week 8/PolyKebap/Stylized Coin Pack/Prefabs/Gold Coins/Coin_Gold_Skull.prefab
+  artifactKey: Guid(c5c10042025ed0c44acf7665f60ac1d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Week 8/PolyKebap/Stylized Coin Pack/Prefabs/Gold Coins/Coin_Gold_Skull.prefab using Guid(c5c10042025ed0c44acf7665f60ac1d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'e40f96582648ed5241fd4db46379e6f7') in 0.022107 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
